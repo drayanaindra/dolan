@@ -1,7 +1,7 @@
 This is modify theme from default theme [Ghost](http://github.com/tryghost/ghost/). Add some file for code injection. 
 You can add The comment engine using [disqus](https://disqus.com/) and add Google Analytics
 
-Download this theme and replace to `content/themes/`
+Download this theme and copy or move to `content/themes/`
 
 # Casper
 
