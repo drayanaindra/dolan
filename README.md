@@ -5,6 +5,8 @@ You can add The comment engine using [disqus](https://disqus.com/) and add Googl
 
 Download this theme and copy or move to `content/themes/`
 
+![Dolan Config](https://blog.drayanaindra.com/content/images/2016/01/Screenshot-from-2016-01-18-22-09-31-7.png)
+
 # Casper
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/).
